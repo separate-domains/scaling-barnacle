@@ -58,7 +58,7 @@ export const SEO = ({ description, lang, meta, title }) => {
         },
       ].concat(meta)}
     >
-      <link href="https://fonts.googleapis.com/css?family=Cantarell&display=swap" rel="stylesheet" />
+      <link href='https://fonts.googleapis.com/css?family=Public+Sans&display=swap' rel='stylesheet' />
     </Helmet>
   )
 }

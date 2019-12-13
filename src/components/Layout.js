@@ -22,7 +22,7 @@ const theme = deepFreeze({
       brand: '#F7CAC9',
     },
     font: {
-      family: 'Cantarell',
+      family: 'Public Sans',
     },
   },
 })
@@ -37,7 +37,7 @@ const AppBar = (props) => (
     pad={{ left: 'medium', right: 'small', vertical: 'small' }}
     elevation='medium'
     fill='horizontal'
-    style={{ zIndex: '100' }}
+    style={{ zIndex: '100', fontWeight: 'bold' }}
     {...props}
   />
 );
