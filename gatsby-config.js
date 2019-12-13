@@ -2,7 +2,7 @@ require(`dotenv`).config()
 
 module.exports = {
   siteMetadata: {
-    title: `Vady cosmetics`,
+    title: `Vady cosmeticos`,
     description: `Cosmetics shop in Zihuatanejo, Guerrero`,
     author: `nn`,
   },
