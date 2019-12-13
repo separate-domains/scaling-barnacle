@@ -48,7 +48,7 @@ export const Layout = ({ children }) => (
       {size => (
         <>
           <AppBar>
-            <Text size='xxlarge'><span style={{color: '#5073b5'}}>Vady Cosméticos.</span> Avenida Benito Juárez #10, Centro, 40890. Entregas personales en Ixtapa Zihuatanejo. Envíos a toda la República 💅<br /><a href="https://facebook.com/vadycosmeticszihuatanejo"><img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg' height='86px' alt='Facebook logo'/></a> <a href='https://wa.me/5217551065013'><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height='96px' alt='Whatsapp logo'/></a> <a href='https://goo.gl/maps/3r18nV6xwUfhhJDg8'><img src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg' height='86px' alt='Google pin'/></a></Text>
+            <Text size='xxlarge'><span style={{color: '#5073b5'}}>Vady Cosméticos.</span> Avenida Benito Juárez #10, Centro, 40890. Entregas personales en Ixtapa Zihuatanejo. Envíos a toda la República 📦<br /><a href="https://facebook.com/vadycosmeticszihuatanejo"><img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg' height='86px' alt='Facebook logo'/></a> <a href='https://wa.me/5217551065013'><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height='96px' alt='Whatsapp logo'/></a> <a href='https://goo.gl/maps/3r18nV6xwUfhhJDg8'><img src='https://upload.wikimedia.org/wikipedia/commons/d/d1/Google_Maps_pin.svg' height='86px' alt='Google pin'/></a></Text>
           </AppBar>
           <Box fill>
             <Box flex>
