@@ -1,9 +1,9 @@
 import React from 'react';
 import {
- Box,
- Grommet,
- ResponsiveContext,
- Text,
+  Box,
+  Grommet,
+  ResponsiveContext,
+  Text,
 } from 'grommet';
 import { deepFreeze } from "grommet/utils";
 
